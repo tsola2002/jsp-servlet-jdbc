@@ -28,7 +28,7 @@
 	<br>
 
 	<div class="row">
-		<!-- <div class="alert alert-success" *ngIf='message'>{{message}}</div> -->
+	
 
 		<div class="container">
 			<h3 class="text-center">List of Users</h3>
